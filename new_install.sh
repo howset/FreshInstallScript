@@ -157,7 +157,7 @@ sudo apt install ffmpeg
 ########################################################################
 ## DOWNLOAD SEPARATELY
 
-# Xmind check version
+# Xmind 8 update 9
 # Discord 
 # Spotify
 # Filezilla - ftp download
