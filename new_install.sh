@@ -131,6 +131,9 @@ sudo apt install krita
 # Flameshot - screen capture
 sudo apt install flameshot
 
+# Pavucontrol
+sudo apt install pavucontrol 
+
 ########################################################################
 ## NOT VERY IMPORTANT
 
