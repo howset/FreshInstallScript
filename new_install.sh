@@ -164,6 +164,7 @@ sudo apt install ffmpeg
 # Foliate - epub reader
 # Inkscape - vector image editor
 # Slack
+# Whalebird - mastodon client
 
 ########################################################################
 ## ETC
