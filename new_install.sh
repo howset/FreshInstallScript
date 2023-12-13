@@ -196,6 +196,8 @@ sudo apt install ffmpeg
 # - jupyter(?)
 # - python preview
 # - arepl for python
+# - nord deep
+# - c/C++, 42 header (kube), 42 norminette (Marius)
 
 ########################################################################
 ## THEMES
